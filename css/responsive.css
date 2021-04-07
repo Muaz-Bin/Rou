@@ -1,0 +1,160 @@
+@media (min-width: 992px) {
+  .py-lg-70 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  .pb-lg-100 {
+    padding-bottom: 100px !important;
+  }
+
+  .mt-lg-60 {
+    margin-top: 60px;
+  }
+  .mt-lg-70 {
+    margin-top: 70px;
+  }
+  .mt-lg-80 {
+    margin-top: 80px;
+  }
+  .mt-lg-100 {
+    margin-top: 100px;
+  }
+  .mt-lg-130 {
+    margin-top: 130px;
+  }
+}
+@media (min-width: 565px) {
+  .py-sm-70 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+
+  .pb-sm-100 {
+    padding-bottom: 100px !important;
+  }
+
+  .mt-sm-60 {
+    margin-top: 60px;
+  }
+  .mt-sm-70 {
+    margin-top: 70px;
+  }
+  .mt-sm-80 {
+    margin-top: 80px;
+  }
+  .mt-sm-100 {
+    margin-top: 100px;
+  }
+  .mt-sm-130 {
+    margin-top: 130px;
+  }
+}
+@media (max-width: 991px) {
+  .header .hero-area .hero-content h1 {
+    font-size: 60px;
+  }
+
+  .header .hero-area .hero-content p {
+    font-size: 25px;
+  }
+
+  .about-section .about-content .img-box {
+    min-height: 455px;
+  }
+
+  .testimonial-section .img-box img {
+    top: -50px;
+  }
+  .testimonial-section .img-box::before {
+    bottom: 20px;
+    left: -30px;
+    height: 150px;
+    width: 150px;
+    border-radius: 15px;
+  }
+
+  .footer-section h5 {
+    text-align: center;
+  }
+  .footer-center-item ul li {
+    justify-content: center;
+  }
+}
+
+@media (max-width: 767px) {
+  .section-title p {
+    font-size: 22px;
+  }
+  .section-title h2 {
+    font-size: 40px;
+    margin-top: 10px;
+  }
+
+  .about-section .about-content .img-box {
+    min-height: 370px;
+  }
+
+  .testimonial-section .testimonial-slider .owl-dots {
+    transform: translateX(-50%);
+    left: 50%;
+  }
+
+  .contact-section h3 {
+    font-size: 30px;
+    margin: 20px 0;
+  }
+
+  .work-section .work-content h4 {
+    font-size: 30px;
+  }
+
+  .team-section .single-team .content {
+    text-align: center;
+  }
+}
+
+@media (max-width: 567px) {
+  .header .hero-area .hero-content h1 {
+    font-size: 50px;
+  }
+  .about-section .about-card {
+    padding: 20px 15px;
+  }
+  .service-section .service-box {
+    padding: 25px 15px;
+  }
+  .work-section .work-content span {
+    font-size: 20px;
+  }
+
+  .section-title p {
+    font-size: 20px;
+  }
+  .section-title h2 {
+    font-size: 30px;
+    margin-top: 10px;
+  }
+
+  .owl-carousel .owl-item img {
+    display: block;
+    max-width: 100% !important;
+    width: auto !important;
+    margin: auto;
+  }
+
+  .team-section {
+    padding-bottom: 0 !important;
+  }
+
+  .testimonial-section .testimonial-slider .single-testimonial h2 {
+    font-size: 35px;
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 420px) {
+  .about-section .about-content .img-box {
+    min-height: 270px;
+  }
+}

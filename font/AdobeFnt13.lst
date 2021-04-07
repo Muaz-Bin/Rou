@@ -1,0 +1,85 @@
+%!Adobe-FontList 1.13
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Overpass-Bold
+FamilyName:Overpass
+StyleName:Bold
+FullName:Overpass Bold
+MenuName:Overpass
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\html tutorial\projects\Rou\Font\overpass-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:68876
+FileModTime:1616359568
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Overpass-ExtraBold
+FamilyName:Overpass
+StyleName:ExtraBold
+FullName:Overpass ExtraBold
+MenuName:Overpass ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\html tutorial\projects\Rou\Font\overpass-extrabold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:66864
+FileModTime:1616359568
+WeightClass:800
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Overpass-Regular
+FamilyName:Overpass
+StyleName:Regular
+FullName:Overpass
+MenuName:Overpass
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\html tutorial\projects\Rou\Font\overpass-regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:69728
+FileModTime:1616359568
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Roboto-Regular
+FamilyName:Roboto
+StyleName:Regular
+FullName:Roboto
+MenuName:Roboto
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\html tutorial\projects\Rou\Font\Roboto-Regular.ttf
+DataFormat:sfntData
+FileLength:171272
+FileModTime:1357668000
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
